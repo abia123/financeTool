@@ -1,0 +1,21 @@
+{
+    "properties": [
+        {
+            "property_id": "001",
+            "propery_type": "House",
+            "address":  
+            "city":
+            "state":
+            "zipcode":
+            "price":
+            "bedroom":
+            "bathroom":
+            "square_feet":
+            "description":
+            "image_url":
+        }
+
+    ]
+
+
+}
